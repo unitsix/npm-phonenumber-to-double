@@ -1,4 +1,6 @@
-MSN to Double
+[![Coverage Status](https://coveralls.io/repos/github/unitsix/npm-phonenumber-to-double/badge.svg?branch=master)](https://coveralls.io/github/unitsix/npm-phonenumber-to-double?branch=master) [![Build Status](https://travis-ci.org/unitsix/npm-phonenumber-to-double.svg?branch=master)](https://travis-ci.org/unitsix/npm-phonenumber-to-double) 
+
+Phone Number to Double
 =========
 
 A small library that formats a phone number to double. Useful for Lambdas triggered by Amazon Connect. 
