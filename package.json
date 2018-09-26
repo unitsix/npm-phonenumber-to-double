@@ -4,6 +4,9 @@
   "engines": {
     "node": ">=4.1.1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Formats a Phone Number to double",
   "main": "index.js",
   "scripts": {
